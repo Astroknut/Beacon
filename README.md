@@ -19,7 +19,8 @@ Planned technologies: PHP, Laravel, MySQL, Node.js, Socket.io, Redis
 
 ##### Wireframes
 
-*TODO: Insert wireframe images from planning process*
+![Wireframe 1](./wireframes/landing_home.jpg =100x300)
+![Wireframe 2](./wireframes/user_login.jpg =100x300)
 
 ##### User Stories
 [Beacon Trello Board](https://trello.com/b/u0CrgD33/beacon)
