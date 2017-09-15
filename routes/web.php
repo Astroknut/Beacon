@@ -11,12 +11,19 @@
 |
 */
 
+/*************
+LANDING PAGE ROUTE
+*************/	
 Route::get('/', function () {
     return view('welcome');
 });
 
 Auth::routes();
 
+
+/*************
+BEACON ROUTES
+*************/	
 Route::get('/home', 'PostsController@index')->name('home');
 
 Route::get('/posts/create', 'PostsController@create');
@@ -24,3 +31,8 @@ Route::get('/posts/create', 'PostsController@create');
 Route::get('/posts/{post}', 'PostsController@show');
 
 Route::post('/posts', 'PostsController@store');
+
+/*************
+COMMENTS ROUTES
+*************/
+Route::get('/posts/{post}/comments', 'CommentsController@store');	
