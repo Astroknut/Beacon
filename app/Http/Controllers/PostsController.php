@@ -24,6 +24,11 @@ class PostsController extends Controller
     	return view('posts.show', compact('post'));
     }
 
+    public function create()
+    {
+        return view('posts.create');
+    }
+
     public function store()
     {
     	$this->validate(request(), [
@@ -35,6 +40,6 @@ class PostsController extends Controller
     		new Post(request(['title', 'body']))
     	);
 
-    	return redirect('/');
+    	return redirect('/home');
     }
 }
