@@ -14,6 +14,6 @@ class CommentsController extends Controller
 
     	$post->addComment(request('body'));
 
-    	return redirect('/home');
+    	return back();
     }
 }
