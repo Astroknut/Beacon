@@ -16,7 +16,9 @@ class PostsController extends Controller
     {
     	$posts = Post::latest()->get();
 
-    	return view('posts.index', compact('posts'));
+        return response("hello world");
+
+    	// return view('posts.index', compact('posts'));
     }
 
     public function show(Post $post)
