@@ -27,7 +27,11 @@ Planned technologies: PHP, Laravel, MySQL, Node.js, Socket.io, Redis
 
 
 #### Creation of Beacon
-*TODO: Documentation of creation process, including technology challenges, any pivoting, and a description of how to install all dependencies*
+Laraval Scaffold
+Auth Scaffold
+Heroku deployment
+Issue with returning views on Heroku
+
 
 
 #### Future of Beacon
