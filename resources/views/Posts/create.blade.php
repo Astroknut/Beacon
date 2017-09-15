@@ -12,7 +12,7 @@
 			{{ csrf_field() }}
 
 			<div class="form-group">
-				<label for="title">Title:</label>
+				<label for="title">Headline:</label>
 				<input type="text" class="form-control" id="title" name="title" placeholder="Enter Your Beacon's Headline" required>
 			</div>
 			<div class="form-group">
