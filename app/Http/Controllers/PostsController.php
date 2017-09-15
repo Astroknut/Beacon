@@ -23,12 +23,12 @@ class PostsController extends Controller
 
     public function show(Post $post)
     {
-    	return view('posts.show', compact('post'));
+    	return view('Posts.show', compact('post'));
     }
 
     public function create()
     {
-        return view('posts.create');
+        return view('Posts.create');
     }
 
     public function store()
