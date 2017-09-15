@@ -3,11 +3,12 @@
 
 @section('content')
 
-	<div class="col-sm-8 feed-main">
-		<a href="/posts/create"><button class="btn btn-primary">New Beacon</button></a>
+	<div class="col-sm-6 feed-main">
+		
 		@foreach ($posts as $post)
 			@include('Posts.post')
 		@endforeach
+
 	</div><!-- /.feed-main -->
 
 @endsection

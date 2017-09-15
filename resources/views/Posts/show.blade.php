@@ -2,7 +2,7 @@
 
 @section('content')
 
-	<div class="col-sm-8 feed-main">
+	<div class="col-sm-6 feed-main">
 		
 		<h1>{{ $post->title }}</h1>
 
@@ -32,7 +32,7 @@
 					{{ csrf_field() }}
 
 					<div class="form-group">
-						<textarea name="body" id="body" placeholder="Enter Your Comment Here" required></textarea>
+						<textarea name="body" id="body" placeholder="Enter Your Comment Here" cols="40" rows="5" required></textarea>
 					</div>
 
 					<div class="form-group">

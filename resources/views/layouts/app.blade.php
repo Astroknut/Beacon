@@ -72,6 +72,7 @@
         </nav>
         @include ('layouts.sidebar')
         @yield('content')
+        @include('layouts.beacon')
     </div>
 
     <!-- Scripts -->

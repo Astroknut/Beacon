@@ -1,8 +1,9 @@
-<div class="col-sm-3 offset-sm-1 sidebar">
+<div class="col-sm-3 sidebar">
 	<div class="sidebar-module sidebar-module-inset">
-		<h4>Preparedness Guides</h4>
+		<h3>Preparedness Guides</h3>
 		<p>Red Cross Guides</p>
 	</div>
+
 	<div class="sidebar-module">
     <h4>Disaters</h4>
     <ol class="list-unstyled">
@@ -14,4 +15,9 @@
       <li><a href="https://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/">Zombie Apocolypse</a></li>
     </ol>
   </div>
+
+  <div class="sidebar-module">
+    <h3>Insert Weather API here</h3>
+  </div>
+
 </div>
