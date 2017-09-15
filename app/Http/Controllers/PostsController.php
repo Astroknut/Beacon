@@ -18,7 +18,7 @@ class PostsController extends Controller
 
         // return response("hello world");
 
-    	return view('posts.index', compact('posts'));
+    	return view('Posts.index', compact('posts'));
     }
 
     public function show(Post $post)
