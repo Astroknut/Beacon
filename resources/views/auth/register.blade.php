@@ -76,7 +76,7 @@
                         </div>
 
                         <div class="form-group">
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 col-sm-offset-4">
                                 <button type="submit" class="btn btn-primary">
                                     Register
                                 </button>
