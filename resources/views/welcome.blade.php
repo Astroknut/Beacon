@@ -12,6 +12,7 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="/css/beacon.css">
+        <link rel="stylesheet" href="/css/animate.css">
     </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -27,7 +28,7 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="animated hinge title m-b-md fadeInDown">
                     Beacon
                 </div>
 
