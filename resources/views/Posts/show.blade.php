@@ -43,4 +43,6 @@
 		</div>
 	</div>
 
+	@include('layouts.beacon')
+
 @endsection

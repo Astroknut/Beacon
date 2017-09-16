@@ -26,4 +26,6 @@
 		</form>
 	</div>
 
+	@include('layouts.beacon')
+
 @endsection

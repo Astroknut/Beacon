@@ -11,4 +11,6 @@
 
 	</div><!-- /.feed-main -->
 
+	@include('layouts.beacon')
+
 @endsection
