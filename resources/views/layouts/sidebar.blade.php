@@ -16,8 +16,4 @@
     </ol>
   </div>
 
-  <div class="sidebar-module">
-    <h3>Insert Weather API here</h3>
-  </div>
-
 </div>
