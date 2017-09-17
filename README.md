@@ -6,7 +6,7 @@
 
 
 #### Screenshots
-![](public/img/beacon.png)
+![](public/img/landing.png)
 
 
 #### The Technology Driving Beacon:
