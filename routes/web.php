@@ -12,10 +12,14 @@
 */
 
 /*************
-LANDING PAGE ROUTE
+PAGE ROUTEs
 *************/	
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/about', function() {
+	return view('layouts.about');
 });
 
 Auth::routes();

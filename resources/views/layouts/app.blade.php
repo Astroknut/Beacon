@@ -64,6 +64,9 @@
                                             {{ csrf_field() }}
                                         </form>
                                     </li>
+                                    <li>
+                                        <a href="/about">About</a>
+                                    </li>
                                 </ul>
                             </li>
                         @endguest
