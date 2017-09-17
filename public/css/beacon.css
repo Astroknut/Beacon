@@ -1,5 +1,7 @@
 html, body {
-    background-color: #fff;
+    background: #2bc0e4;
+    background: -webkit-linear-gradient(to bottom, #2bc0e4, #eaecc6);
+    background: linear-gradient(to bottom, #2bc0e4, #eaecc6);
     color: #636b6f;
     font-family: 'Raleway', sans-serif;
     font-weight: 100;
