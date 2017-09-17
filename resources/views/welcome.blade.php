@@ -32,7 +32,7 @@
                     Beacon
                 </div>
 
-                <div class="links">
+                <div class="tagline">
                     Community Disaster Relief
                 </div>
             </div>

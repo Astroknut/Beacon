@@ -33,16 +33,19 @@ html, body {
 
 .content {
     text-align: center;
+    color: #ffffff;
+    text-shadow: 1px 1px #000000;
+
 }
 
 .title {
-    font-size: 84px;
+    font-size: 100px;
 }
 
 .links > a {
     color: #636b6f;
     padding: 0 25px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     letter-spacing: .1rem;
     text-decoration: none;
@@ -51,4 +54,9 @@ html, body {
 
 .m-b-md {
     margin-bottom: 30px;
+}
+
+.tagline {
+    font-size: 25px;
+
 }
