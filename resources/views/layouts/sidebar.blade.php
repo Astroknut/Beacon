@@ -1,4 +1,5 @@
 <div class="col-sm-3 sidebar">
+  <img id="logo" src="/img/beacon.png">
 	<div class="sidebar-module sidebar-module-inset">
 		<h3>Preparedness Guides</h3>
 		<p>Red Cross Guides</p>

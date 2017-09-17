@@ -22,7 +22,7 @@ Auth::routes();
 
 
 /*************
-BEACON ROUTES
+POST ROUTES
 *************/	
 Route::get('/home', 'PostsController@index')->name('home');
 
