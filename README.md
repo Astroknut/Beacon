@@ -6,7 +6,7 @@
 
 
 #### Screenshots
-*TODO: Insert screenshots of Beacon app*
+![](public/img/beacon.png)
 
 
 #### The Technology Driving Beacon:
