@@ -2,7 +2,7 @@
 
 @section ('content')
 
-	<div class="col-sm-6">
+	<div class="col-sm-6 font">
 		<h1>Create A New Beacon</h1>
 
 		<hr>

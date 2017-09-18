@@ -1,4 +1,4 @@
-<div class="col-sm-3 col-sm-offset-1 sidebar logo">
+<div class="col-sm-3 col-sm-offset-1 sidebar logo miriam">
   
 	<div class="sidebar-module sidebar-module-inset">
 		<img id="lighthouse" src="/img/lighthouse.png">

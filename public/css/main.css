@@ -1,14 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer');
+
 html, body {
 	background: #eeebd8;
 }
 
 .feed-post {
 	font-size: 15px;
+	font-family: 'Im Fell Great Primer';
 	background: #ebf6f9;
 	border: 1px solid #083e4a;
 	border-radius: 5px;
 	padding: 0 5px;
 	margin: 10px 0;
+}
+
+.font {
+	font-family: 'IM Fell Great Primer';
 }
 
 .guides {

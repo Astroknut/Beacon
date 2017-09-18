@@ -2,7 +2,7 @@
 
 @section('content')
 
-	<div class="col-sm-6 feed-main">
+	<div class="col-sm-6 feed-main font">
 		
 		<h1>{{ $post->title }}</h1>
 		<h5>by {{ $post->user->name }} from {{ $post->user->zip }}</h5>
