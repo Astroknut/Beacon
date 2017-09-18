@@ -9,6 +9,6 @@
 
 	
 	<p class="feed-post-meta">
-		{{ $post->user->name }} at {{ $post->created_at->toFormattedDateString() }}
+		-{{ $post->user->name }} on {{ $post->created_at->toFormattedDateString() }} at {{ $post->created_at->toTimeString() }}
 	</p>
 </div><!-- /.feed-post -->
