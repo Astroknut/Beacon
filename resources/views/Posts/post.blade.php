@@ -1,6 +1,6 @@
 <div class="feed-post blue-gray">
 	<h2 class="feed-post-title">
-		<a class="candy-apple" href="/posts/{{ $post->id }}">
+		<a class="navy" href="/posts/{{ $post->id }}">
 			{{$post->title}}
 		</a>
 	</h2>

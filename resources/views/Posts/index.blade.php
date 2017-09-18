@@ -5,7 +5,7 @@
 
 	<div class="col-sm-6 feed-main">
 		<div id="logo">
-			<h2 class="candy-apple">Broadcast Feed</h2>
+			<h2 class="navy">Broadcast Feed</h2>
 			<img src="/img/beacon.png">
 		</div>
 		
