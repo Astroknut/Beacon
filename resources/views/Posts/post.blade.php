@@ -6,9 +6,9 @@
 	</h2>
 
 	{{ $post->body }}
-
 	
 	<p class="feed-post-meta">
+		<br>
 		-{{ $post->user->name }} on {{ $post->created_at->toFormattedDateString() }} at {{ $post->created_at->toTimeString() }}
 	</p>
 </div><!-- /.feed-post -->
