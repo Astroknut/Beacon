@@ -5,8 +5,8 @@
 
 	<div class="col-sm-6 feed-main">
 		<div id="logo">
-			<h2 class="navy">Broadcast Feed</h2>
 			<img src="/img/beacon.png">
+			<h2 class="navy">Broadcast Feed</h2>
 		</div>
 		
 		@foreach ($posts as $post)
