@@ -1,11 +1,11 @@
 html, body {
-	background: #caeef5;
+	background: #eeebd8;
 }
 
 .feed-post {
 	font-size: 15px;
-	background: #23c8ce;
-	border: 1px solid #000;
+	background: #ebf6f9;
+	border: 1px solid #083e4a;
 	border-radius: 5px;
 	padding: 0 5px;
 	margin: 10px 0;
@@ -14,30 +14,25 @@ html, body {
 .guides {
 	margin: 5px 0;
 	font-size: 18px;
-	text-align: center;
 }
 
 .candy-apple {
-	color: #ff0000;
+	color: #083e4a;
 }
 
 .navy {
-	color: #002d4e;
-}
-
-.seafoam {
-	color: #23c8ce;
+	color: #083e4a;
 }
 
 .blue-gray {
-	color: #caeef5;
+	color: #0d4b96;
 }
 
-.sidebar {
-	background: #caeef5;
-}
-
-#logo {
-	margin: 5px;
+.logo {
 	text-align: center;
+}
+
+#lighthouse {
+	height: 250px;
+	align-items: center;
 }

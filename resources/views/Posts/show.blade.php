@@ -14,7 +14,7 @@
 		<div class="comments">
 			<ul class="list-group">
 				@foreach ($post->comments as $comment)
-					<li class="list-group-item list-group-item-info">
+					<li class="list-group-item feed-main">
 						<strong>
 							{{ $comment->created_at->diffForHumans() }}: &nbsp;
 						</strong>
@@ -41,6 +41,5 @@
 		</div>
 	</div>
 
-	@include('layouts.beacon')
 
 @endsection

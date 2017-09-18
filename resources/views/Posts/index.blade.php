@@ -4,8 +4,8 @@
 @section('content')
 
 	<div class="col-sm-6 feed-main">
-		<div id="logo">
-			<img src="/img/beacon.png">
+		<div class="logo">
+			<a href="/posts/create"><button class="btn btn-primary">Broadcast a New Beacon</button></a>
 			<h2 class="navy">Broadcast Feed</h2>
 		</div>
 		
@@ -14,7 +14,5 @@
 		@endforeach
 
 	</div><!-- /.feed-main -->
-
-	@include('layouts.beacon')
 
 @endsection

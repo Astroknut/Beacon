@@ -1,9 +1,17 @@
-<div class="col-sm-3 sidebar">
+<div class="col-sm-3 col-sm-offset-1 sidebar logo">
   
 	<div class="sidebar-module sidebar-module-inset">
-		<h2 class="candy-apple">Be Prepared!</h2>
-		<h5 class="navy">Knowing what to expect and how you can prepare is the best way to protect yourself.</h5>
+		<img id="lighthouse" src="/img/lighthouse.png">
 	</div>
+  <br>
+  <div class="sidebar-module navy">
+    <h3>Beacon Dashboard</h3>
+  </div>
+
+  <div class="sidebar-module candy-apple">
+    <h3>Insert Weather API here</h3>
+  </div>
+
   <br>
 
 	<div class="sidebar-module">
