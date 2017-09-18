@@ -15,7 +15,7 @@
 
 ###### Taking this approach to the development process did pose a few problems. Not having much experience with PHP, and none with Laravel, it was more difficult to troubleshoot any bugs or issues that came up. However, after spending a day going over the documentation for Laravel, I was able to quickly pick up speed. There is an amazing community for Laravel online, and some of the best documentation/tutorials I could have asked for. Taking the time to really dig in to the framework made it much easier to conquer some of the biggest challenges of past projects.
 
-###### I also wanted to approach this project in a way that would allow me to continue building it as a personal project. To do this, I needed to set a solid foundation to start. The first hurdles to jump were authentication and hosting. Once I had those completed, I was able to build a basic structure similiar to a blog format. Creating User, Post, and Comment models to work with. Laraval's CLI allowed me to create each model along with it's controller and database migration simultaneously. I was also able to easily create the three main components of the home layout and include them in the parent component very quickly, using bootstrap to align them correctly. With each component in a separate view, this will allow me to restructure the visual layout as the app evolves. 
+###### I also wanted to approach this project in a way that would allow me to continue building it as a personal project. To do this, I needed to set a solid foundation to start. The first hurdles to jump were authentication and hosting. Once I had those completed, I was able to build a basic structure similiar to a blog format. Creating User, Post, and Comment models to work with. Laraval's CLI(PHP Artisan) allowed me to create each model along with it's controller and database migration simultaneously. I was also able to easily create the three main components of the home layout and include them in the parent component very quickly, using bootstrap to align them correctly. With each component in a separate view, this will allow me to restructure the visual layout as the app evolves. 
 
 
 #### Planning Process
@@ -28,6 +28,13 @@
 ##### User Stories
 [Beacon Trello Board](https://trello.com/b/u0CrgD33/beacon)
 
+##### Dependencies and installation
+###### PHP 7.1
+###### Composer- Dependency manager (global)
+[Composer](https://getcomposer.org/)
+###### Laravel 5.5 (global)
+[Laravel](https://laravel.com/docs/5.5)
+###### Valet (Laravel dev environment)
 
 #### Future of Beacon
 Currently I am working on filtering the Broadcast feed by user zip code, and incorporating tags to allow user to search for certain beacons(i.e "No water", "Live power cable down", etc). These features will be crucial to the core functionality of the app.
