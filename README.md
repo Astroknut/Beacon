@@ -31,3 +31,5 @@
 There are many features that I will be working to incorporate into Beacon. Several of the features I hope to add are: Ability for user to broadcast Geo-tags, Google Maps API integration for Geo-tags and directions to users in need, and an emergency broadcast options for users who need immediate assistance(tied to Geo-tag for emergency response units to access)
 
 
+### Check out the app!
+[Beacon](https://quiet-headland-93649.herokuapp.com/)
