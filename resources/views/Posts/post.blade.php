@@ -1,12 +1,12 @@
-<div class="feed-post">
-	
+<div class="feed-post blue-gray">
 	<h2 class="feed-post-title">
-		<a href="/posts/{{ $post->id }}">
+		<a class="candy-apple" href="/posts/{{ $post->id }}">
 			{{$post->title}}
 		</a>
 	</h2>
 
 	{{ $post->body }}
+
 	
 	<p class="feed-post-meta">
 		{{ $post->user->name }} at {{ $post->created_at->toFormattedDateString() }}

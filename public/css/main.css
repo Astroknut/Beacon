@@ -1,9 +1,10 @@
 html, body {
-	background: #eaecc6;
+	background: #002d4e;
 }
 
 .feed-post {
-	background: #add8e6;
+	font-size: 15px;
+	background: #23c8ce;
 	border: 1px solid #000;
 	border-radius: 5px;
 	padding: 0 5px;
@@ -13,5 +14,30 @@ html, body {
 li {
 	margin: 5px 0;
 	font-size: 18px;
+	text-align: center;
+}
+
+.candy-apple {
+	color: #ff0000;
+}
+
+.navy {
+	color: #002d4e;
+}
+
+.seafoam {
+	color: #23c8ce;
+}
+
+.blue-gray {
+	color: #caeef5;
+}
+
+.sidebar {
+	background: #caeef5;
+}
+
+#logo {
+	margin: 5px;
 	text-align: center;
 }
