@@ -30,7 +30,7 @@
 
 
 #### Future of Beacon
-There are many features that I will be working to incorporate into Beacon. Several of the features I hope to add are: Ability for user to broadcast Geo-tags, Google Maps API integration for Geo-tags and directions to users in need, and an emergency broadcast options for users who need immediate assistance(tied to Geo-tag for emergency response units to access)
+There are many features that I will be working to incorporate into Beacon. Several of the features I hope to add are:	Geolocation of user rather than entered zip code, Ability for user to broadcast Geo-tags, Google Maps API integration for Geo-tags and directions to users in need, and an emergency broadcast options for users who need immediate assistance(tied to Geo-tag for emergency response units to access). I also hope to integrate live voice chat channel feature to allow for real time communication between users and emergency services. 
 
 
 ### Check out the app!
