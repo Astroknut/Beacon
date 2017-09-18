@@ -6,11 +6,15 @@
 		<div class="row">
 			<div class="col-sm-6 font">
 
-				<h1>About Beacon</h1>
+				<h2>A Communal Approach to Disaster Relief</h2>
 
 				<hr>
 
-				<h3>One of the most difficult parts of rebuilding after a natural disaster is connecting members of a community to help address the biggest needs in that area. Many people spend a large portion time trying to connect with friends and neighbors to figure out where they can help to begin the recovery process. Beacon seeks to give communities a platform to begin the recovery process. Beacon offers a live stream forum for community members in the same zip code to alert others of dangerous condition in the area, volunteer recovery efforts, or their own request for assistance after a disaster. </h3>
+				<h3>The most difficult aspect of recovery after a natural disaster is simply getting started. After an event like a hurricane, there may be countless people in need of assistance, and just as many willing to help but not knowing how they can. That's where Beacon come in.</h3>
+				<br>
+				<h3>Beacon aims to provide communities with a platform to ask for assistance, or to offer their help. Each community has there own location-based activity feed, that allows others to respond to any request for aid, and help expedite the recovery process. Every time you log in, you will have direct access to your communities Broadcast Feed, and the ability to broadcast your own beacon.</h3>
+
+				<a href="/home"><button class="btn btn-success">View Community Broadcast Feed</button></a>
 
 			</div>
 		</div>
