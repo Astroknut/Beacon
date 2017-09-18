@@ -8,7 +8,7 @@
 
 	<div class="sidebar-module">
     <h4 class="candy-apple">Red Cross Disaster Guides</h4>
-    <ol class="list-unstyled">
+    <ol class="list-unstyled guides">
       <li><a href="http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane">Hurricane</a></li>
       <li><a href="http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/tornado">Tornado</a></li>
       <li><a href="http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/wildfire">Wildfire</a></li>
