@@ -7,8 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 class Comment extends Model
 {
 
+    //Guarded(unallowed mass assignment) fields
 	protected $guarded = [];
 	
+    //Declare ERDs
     public function post()
     {
     	return $this->belongsTo(Post::class);

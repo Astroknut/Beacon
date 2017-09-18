@@ -12,7 +12,7 @@
 */
 
 /*************
-PAGE ROUTEs
+PAGE ROUTES
 *************/	
 Route::get('/', function () {
     return view('welcome');

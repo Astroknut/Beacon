@@ -27,11 +27,13 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 
+    //Declare ERD
     public function posts()
     {
         return $this->hasMany(Post::class);
     }
 
+    //Save new post to DB
     public function publish(Post $post)
     {
         $this->posts()->save($post);
