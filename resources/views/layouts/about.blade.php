@@ -14,7 +14,7 @@
 
 				<br>
 				
-				<h3>Beacon aims to provide communities with a platform to ask for assistance, or to offer their help. Each community has there own location-based activity feed, that allows others to respond to any request for aid, and help expedite the recovery process. Every time you log in, you will have direct access to your communities Broadcast Feed, and the ability to broadcast your own beacon.</h3>
+				<h3>Beacon aims to provide communities with a platform to ask for assistance, or to offer their help. Each community has a location-based activity feed, that allows others to respond to any request for aid, and help expedite the recovery process. Every time you log in, you will have direct access to your local Broadcast Feed, and the ability to broadcast your own beacon.</h3>
 
 				<br>
 				
